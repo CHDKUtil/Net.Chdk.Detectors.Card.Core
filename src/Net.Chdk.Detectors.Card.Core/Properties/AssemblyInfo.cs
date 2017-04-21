@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Dmitry Shechtman")]
-[assembly: AssemblyProduct("Net.Chdk.Model.Card")]
+[assembly: AssemblyProduct("Net.Chdk")]
 [assembly: AssemblyCopyright("Copyright © 2017 Dmitry Shechtman")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
