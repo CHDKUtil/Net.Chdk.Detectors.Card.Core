@@ -1,2 +1,2 @@
 # Net.Chdk.Detectors.Card.Core
-CHIMP card detectors API
+[OBSOLETE] CHIMP card detectors API
